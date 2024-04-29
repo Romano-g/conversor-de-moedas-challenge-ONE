@@ -27,7 +27,7 @@
 <h2>🛠️ Abrindo e rodando o projeto</h2>
 <br>
 
-<p>Após abrir o projeto, você pode abrir com o IntelliJ, mas antes precisará baixar a biblioteca GSON.</p>
+<p>Após baixar o projeto, você pode abrir com o IntelliJ, mas antes precisará baixar a biblioteca GSON, como descrito no passo a passo abaixo:</p>
 <br>
 
 - Clique <a href="https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1" target="_blank">aqui</a> para acessar o download da biblioteca;
