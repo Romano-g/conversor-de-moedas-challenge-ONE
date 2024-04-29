@@ -48,7 +48,7 @@
 - `IntelliJ IDEA`
 <br>
   
-- `Gson`
+- `Gson V2.10.1`
 <br>
   
 - `API`
