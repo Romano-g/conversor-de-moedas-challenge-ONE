@@ -15,7 +15,7 @@
 - `Menu interativo`: No menu de opções, que vai de 1 até 11, o cliente pode escolher entre converter de Reais para Dólares, Pesos Argentinos, Bolivianos, Pesos Chilenos ou Pesos Colombianos, bem como converter dessas moedas para Real;
 <br>
 
-- `Leitura do valor`: Após a escolha da opção pelo cliente, o programa pedirá o valor a ser convertido, o valor deve estar no formato `double`;
+- `Leitura do valor`: Após a escolha da opção pelo cliente, o programa pedirá o valor a ser convertido, o valor deve estar no formato `double` ou `int`;
 <br>
 
 - `Conversão`: Ao receber o valor do cliente, o código irá consultar a cotação da moeda pela API, formatará usando a biblioteca <a href="https://mvnrepository.com/artifact/com.google.code.gson/gson" target="_blank">Gson</a>, e fará o cálculo, retornando na tela o valor convertido para a moeda escolhida.
