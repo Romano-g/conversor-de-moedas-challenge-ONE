@@ -51,7 +51,7 @@
 - `Gson V2.10.1`
 <br>
   
-- `API`
+- `Conexão Java com API`
 <br>
   
 - `Programação Orientada a Objetos`
