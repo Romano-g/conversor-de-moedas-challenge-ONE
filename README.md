@@ -6,7 +6,7 @@
   <img loading="lazy" alt="Status badge" src="https://img.shields.io/badge/STATUS-FINALIZADO-9400D3">
 </p>
 <br>
-<p>O Coinversor foi uma ferramenta de uso pelo terminal criada durante o projeto ONE - Oracle Next Education, e se utiliza da API <a href="https://www.exchangerate-api.com/" target="_blank">Exchange Rate</a> para converter o valor digitado pelo usuário para Reais, ou vice-versa!</p>
+<p>O Coinversor é uma ferramenta de uso pelo terminal criada durante o projeto ONE - Oracle Next Education, e se utiliza da API <a href="https://www.exchangerate-api.com/" target="_blank">Exchange Rate</a> para converter o valor digitado pelo usuário para Reais, ou vice-versa!</p>
 
 <br>
 <h2>🔨 Funcionalidades do Projeto</h2>
