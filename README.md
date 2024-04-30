@@ -32,8 +32,8 @@
 
 - Clique <a href="https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1" target="_blank">aqui</a> para acessar o download da biblioteca;
 - Baixe o arquivo ".jar" e o extraia;
-- Abra o IntelliJ, e selecione <b>"File" > "New" > "New project from existing sources..."</b> (ou alguma opção similar);
-- Adicione o projeto do local onde foi baixado (caso esteja em zip será necessário extraí-lo antes);
+- Abra o IntelliJ, e selecione <b>"File" > "open"</b> (ou alguma opção similar);
+- Abra o projeto do local onde foi baixado (caso esteja em zip será necessário extraí-lo antes);
 - Após abrir o projeto, vá em <b>"File" > "Project Structure" > "Modules" > "Dependencies"</b>;
 - No menu a esquerda clique em <b>"+" > "JARs or directorys..."</b>, e então selecione a biblioteca GSON baixada anteriormente (se ela estiver em .zip é necessária a extração);
 - Clique em OK e está pronto para rodar o código!
